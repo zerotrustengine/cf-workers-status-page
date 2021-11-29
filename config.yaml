@@ -17,7 +17,7 @@ settings:
 
 monitors:
   - id: zzupw # unique identifier
-    name: zzup.w
+    name: 短域名
     description: 'You write code. They handle the rest.' # default=empty
     url: 'https://zzu.pw/' # URL to fetch
     method: GET # default=GET
