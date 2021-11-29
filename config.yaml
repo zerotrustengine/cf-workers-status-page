@@ -41,3 +41,411 @@ monitors:
     expectStatus: 200 
     followRedirect: false 
     linkable: false
+  - id: 0
+    name: 国家农业科学数据中心
+    description: ''
+    url: 'http://www.agridata.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 1
+    name: 国家天文科学数据中心
+    description: ''
+    url: 'https://nadc.china-vo.org'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 2
+    name: 国家对地观测科学数据中心
+    description: ''
+    url: 'http://www.chinageoss.cn'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 3
+    name: 国家发育和功能人脑组织资源库
+    description: ''
+    url: 'http://anatomy.sbm.pumc.edu.cn/brainbank'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 4
+    name: 国家重要野生植物种质资源库
+    description: ''
+    url: 'https://seed.iflora.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 5
+    name: 国家人类生殖和健康资源库
+    description: ''
+    url: 'http://www.egene.org.cn'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 6
+    name: 国家非人灵长类实验动物资源库
+    description: ''
+    url: 'http://nhp.kiz.ac.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 7
+    name: 国家人类疾病动物模型资源库
+    description: ''
+    url: 'http://namr.org.cn'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 8
+    name: 国家干细胞转化资源库
+    description: ''
+    url: 'http://nsctrc.tongji.edu.cn'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 9
+    name: 国家基础学科公共科学数据中心
+    description: ''
+    url: 'http://www.nbsdc.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 10
+    name: 国家标准物质资源库
+    description: ''
+    url: 'http://www.ncrm.org.cn'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 11
+    name: 国家病原微生物资源库
+    description: ''
+    url: 'https://www.nprc.org.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 12
+    name: 国家园艺种质资源库
+    description: ''
+    url: 'http://www.nhgrc.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 13
+    name: 国家植物标本资源库
+    description: ''
+    url: 'https://www.cvh.ac.cn'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 14
+    name: 国家生态科学数据中心
+    description: ''
+    url: 'http://www.cnern.org.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 15
+    name: 国家犬类实验动物资源库
+    description: ''
+    url: 'http://www.nclarc.org.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 16
+    name: 国家寄生虫资源库
+    description: ''
+    url: 'https://www.tdrc.org.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 17
+    name: 国家淡水水产种质资源库
+    description: ''
+    url: 'http://freshwater.fishinfo.cn'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 18
+    name: 国家极地科学数据中心
+    description: ''
+    url: 'http://www.chinare.org.cn'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 19
+    name: 国家菌种资源库
+    description: ''
+    url: 'http://www.nimr.org.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 20
+    name: 国家鼠和兔类实验动物资源库
+    description: ''
+    url: 'http://www.nrllarc.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 21
+    name: 国家啮齿类实验动物资源库
+    description: ''
+    url: 'http://nrla.nifdc.org.cn'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 22
+    name: 国家林业和草原种质资源库
+    description: ''
+    url: 'http://www.nfgrp.cn'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 23
+    name: 国家海洋科学数据中心
+    description: ''
+    url: 'http://mds.nmdis.org.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 24
+    name: 国家禽类实验动物资源库
+    description: ''
+    url: 'http://pla.caas.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 25
+    name: 国家模式与特色实验细胞资源库
+    description: ''
+    url: 'http://www.cellbank.org.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 26
+    name: 国家人口健康科学数据中心
+    description: ''
+    url: 'http://www.ncmi.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 27
+    name: 国家气象科学数据中心
+    description: ''
+    url: 'https://data.cma.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 28
+    name: 国家地球系统科学数据中心
+    description: ''
+    url: 'http://www.geodata.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 29
+    name: 国家林业和草原科学数据中心
+    description: ''
+    url: 'http://www.forestdata.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 30
+    name: 国家微生物科学数据中心
+    description: ''
+    url: 'http://www.nmdc.cn'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 31
+    name: 国家计量科学数据中心
+    description: ''
+    url: 'https://www.nmdc.ac.cn'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 32
+    name: 国家地震科学数据中心
+    description: ''
+    url: 'https://data.earthquake.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 33
+    name: 国家病毒资源库
+    description: ''
+    url: 'https://www.virus.org.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 34
+    name: 国家生物医学实验细胞资源库
+    description: ''
+    url: 'http://www.cellresource.cn'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 35
+    name: 国家热带植物种质资源库
+    description: ''
+    url: 'http://ctcgris.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 36
+    name: 国家动物标本资源库
+    description: ''
+    url: 'http://museum.ioz.ac.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 37
+    name: 国家基因组科学数据中心
+    description: ''
+    url: 'https://ngdc.cncb.ac.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 38
+    name: 国家干细胞资源库
+    description: ''
+    url: 'http://www.bjscb.cn/dms/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 39
+    name: 国家冰川冻土沙漠科学数据中心
+    description: ''
+    url: 'http://www.ncdc.ac.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 40
+    name: 国家海洋水产种质资源库
+    description: ''
+    url: 'http://marine.fishinfo.cn'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 41
+    name: 国家岩矿化石标本资源库
+    description: ''
+    url: 'http://www.nimrf.net.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 42
+    name: 国家空间科学数据中心
+    description: ''
+    url: 'https://www.nssdc.ac.cn'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 43
+    name: 国家水生生物种质资源库
+    description: ''
+    url: 'http://www.nabrc.org.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 44
+    name: 国家青藏高原科学数据中心
+    description: ''
+    url: 'http://data.tpdc.ac.cn'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 45
+    name: 国家高能物理科学数据中心
+    description: ''
+    url: 'https://www.nhepsdc.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 46
+    name: 国家健康和疾病人脑组织资源库
+    description: ''
+    url: 'http://zjubrainbank.zju.edu.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 47
+    name: 国家遗传工程小鼠资源库
+    description: ''
+    url: 'http://www.nrcmm.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 48
+    name: 国家材料腐蚀与防护科学数据中心
+    description: ''
+    url: 'http://www.corrdata.org.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 49
+    name: 国家家养动物种质资源库
+    description: ''
+    url: 'http://www.cdad-is.org.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 50
+    name: 国家作物种质资源库
+    description: ''
+    url: 'http://www.cgris.net/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
