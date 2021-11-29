@@ -17,13 +17,13 @@ settings:
 
 monitors:
   - id: zerotrustengine-com
-      name: 网站首页
-      description: 'You write code. They handle the rest.'
-      url: 'https://zerotrustengine.com/'
-      method: GET
-      expectStatus: 200 
-      followRedirect: false 
-      linkable: false
+    name: 网站首页
+    description: 'You write code. They handle the rest.'
+    url: 'https://zerotrustengine.com/'
+    method: GET
+    expectStatus: 200 
+    followRedirect: false 
+    linkable: false
   - id: zzu-pw # unique identifier
     name: 短域名
     description: 'You write code. They handle the rest.' # default=empty
