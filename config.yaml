@@ -41,3 +41,27 @@ monitors:
     expectStatus: 200 
     followRedirect: false 
     linkable: false
+  - id: 32
+    name: 国家地震科学数据中心
+    description: ''
+    url: 'https://data.earthquake.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 21
+    name: 国家啮齿类实验动物资源库
+    description: ''
+    url: 'http://nrla.nifdc.org.cn'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
+  - id: 23
+    name: 国家海洋科学数据中心
+    description: ''
+    url: 'http://mds.nmdis.org.cn/'
+    method: GET
+    expectStatus: 200
+    followRedirect: true
+    linkable: true
